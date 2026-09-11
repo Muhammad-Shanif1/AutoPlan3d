@@ -3,7 +3,7 @@
 **AutoPlan 3D** is a sophisticated interior design and space planning application that bridges the gap between 2D drafting and 3D visualization. By leveraging **Flutter** for a seamless mobile UI and **Unity** for high-fidelity 3D rendering, the app empowers users to design, furnish, and walk through their dream spaces in real-time.
 
 ---
-![Alt text](assets/app_logo.png)
+<img src="assets/splash_logo.png" alt="App Screenshot" width="500">
 
 ## ✨ Key Features
 
